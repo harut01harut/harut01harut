@@ -26,14 +26,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a knack for building innovative solutions and exploring new technologies. From crafting scalable backend systems to creating dynamic front-end experiences, I thrive on bringing ideas to life. When I'm not coding, I'm likely dreaming up my next big project or diving into the world of Web3 and blockchain.
+I'm a passionate software developer with a knack for building innovative solutions and exploring new technologies. From crafting scalable backend systems to creating dynamic front-end experiences, I thrive on bringing ideas to life.
 
 ## 📚 Skills
 
 - **Languages:** JavaScript, TypeScript, Node.js, PHP (Laravel)
 - **Frameworks & Libraries:** Express.js, Nest.js, Meteor.js, React.js, Next.js, Nuxt.js, Vue.js
 - **Web Technologies:** HTML, CSS, Bootstrap, Tailwind
-- **Databases:** SQL, MySQL, PostgreSQL, NoSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **ORMs:** TypeORM, Sequelize, Mongoose
 - **Cloud & Serverless:** AWS (S3, EC2, IAM, API Gateway, Lambda), Serverless
 - **Architecture:** Microservices, Monorepo
